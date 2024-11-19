@@ -1,0 +1,9 @@
+README.md
+setup.py
+python_example/__init__.py
+python_example/start.py
+python_example.egg-info/PKG-INFO
+python_example.egg-info/SOURCES.txt
+python_example.egg-info/dependency_links.txt
+python_example.egg-info/top_level.txt
+tests/__init__.py
