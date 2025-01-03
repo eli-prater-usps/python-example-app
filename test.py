@@ -15,3 +15,5 @@ def test_multiply():
 def test_divide():
     assert divide_numbers(6, 3) == 2
     assert divide_numbers(10, 2) == 5
+    assert divide_numbers(9, 3) == 3
+    assert divide_numbers(8, 2) == 4
